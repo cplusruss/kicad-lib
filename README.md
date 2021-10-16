@@ -11,4 +11,4 @@ Useful for creating documentation and as an aid for FPGA/ASIC design, Control Sy
 
 # Usage 
 
-# Some examples 
+# Example output
