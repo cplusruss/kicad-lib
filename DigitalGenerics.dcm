@@ -1,0 +1,391 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADD
+D Adder
+$ENDCMP
+#
+$CMP AND2
+D 2-Input AND Gate
+$ENDCMP
+#
+$CMP AND2SM
+D 2-Input AND Gate (small)
+$ENDCMP
+#
+$CMP AND3
+D 3-Input AND Gate
+$ENDCMP
+#
+$CMP BUF
+D Buffer
+$ENDCMP
+#
+$CMP CHANNEL
+D Compare Greater Than
+$ENDCMP
+#
+$CMP COMPARE
+D Comparator
+$ENDCMP
+#
+$CMP COMPEQ
+D Compare Equal
+$ENDCMP
+#
+$CMP COMPGT
+D Compare Greater Than
+$ENDCMP
+#
+$CMP COMPLT
+D Compare Less Than
+$ENDCMP
+#
+$CMP COMPNEQ
+D Compare NotEqual
+$ENDCMP
+#
+$CMP Counter
+D Counter General
+$ENDCMP
+#
+$CMP CounterLoad
+D Counter with Load and Synchronous Clear
+$ENDCMP
+#
+$CMP CounterLoadTC
+D Counter with Load and Synchronous Clear and TC output
+$ENDCMP
+#
+$CMP CounterLoadTC2
+D Counter with Load and Synchronous Clear and 2 TC outputs
+$ENDCMP
+#
+$CMP CounterTC
+D Counter with Synchronous Clear and TC output
+$ENDCMP
+#
+$CMP CounterTC3
+D Counter with Load and Synchronous Clear and 3 TC outputs
+$ENDCMP
+#
+$CMP DEMUX
+D De-Multiplexer (Bus)
+$ENDCMP
+#
+$CMP DFF
+D D Flip-Flop
+$ENDCMP
+#
+$CMP DFFE
+D D Flip-Flop with Enable
+$ENDCMP
+#
+$CMP DFFESR
+D D Flip-Flop with Enable, Set, Reset
+$ENDCMP
+#
+$CMP DFFR
+D D Flip-Flop with Reset
+$ENDCMP
+#
+$CMP DFFSR
+D D Flip-Flop with Set, Reset
+$ENDCMP
+#
+$CMP Decoder10
+D 4:10 Decoder
+$ENDCMP
+#
+$CMP ERROR
+D Adder
+$ENDCMP
+#
+$CMP FALLING_PULSE
+D Falling Pulse Detector
+$ENDCMP
+#
+$CMP FALLING_PULSE_SYNC
+D Falling Pulse Detector with output sync
+$ENDCMP
+#
+$CMP JKFFSR
+D JK Flip-Flop with Set, Reset
+$ENDCMP
+#
+$CMP LATCHNOR
+D Latch, Nor-Based
+$ENDCMP
+#
+$CMP MULT
+D Multiplier
+$ENDCMP
+#
+$CMP MUX2TO1
+D Multiplexer (2:1)
+$ENDCMP
+#
+$CMP MUX4TO1
+D Multiplexer (4:1)
+$ENDCMP
+#
+$CMP MUX8TO1
+D Multiplexer (4:1)
+$ENDCMP
+#
+$CMP MUXBUS
+D Multiplexer (Bus)
+$ENDCMP
+#
+$CMP NAND2
+D 2-Input NAND Gate
+$ENDCMP
+#
+$CMP NAND3
+D 3-Input NAND Gate
+$ENDCMP
+#
+$CMP NAND4
+D 4-Input NAND Gate
+$ENDCMP
+#
+$CMP NOR2
+D 2-Input NOR Gate
+$ENDCMP
+#
+$CMP NOR3
+D 3-Input NOR Gate
+$ENDCMP
+#
+$CMP NOR4
+D 4-Input NOR Gate
+$ENDCMP
+#
+$CMP NOT
+D NOT Gate
+$ENDCMP
+#
+$CMP OR2
+D 2-Input OR Gate
+$ENDCMP
+#
+$CMP OR3
+D 3-Input OR Gate
+$ENDCMP
+#
+$CMP OR4
+D 4-Input OR Gate
+$ENDCMP
+#
+$CMP OR6
+D 6-Input OR Gate
+$ENDCMP
+#
+$CMP RAM_SP_cycloneiv
+D RAM Cyclone IV
+$ENDCMP
+#
+$CMP RISING_PULSE
+D Rising Pulse Detector
+$ENDCMP
+#
+$CMP RISING_PULSE_SYNC
+D Rising Pulse Detector with output sync
+$ENDCMP
+#
+$CMP SHIFTLEFT
+D Shift Left
+$ENDCMP
+#
+$CMP SHIFTRIGHT
+D Shift Left
+$ENDCMP
+#
+$CMP SRFF
+D SR Flip-Flop
+$ENDCMP
+#
+$CMP SRFFPC
+D SR Flip-Flop with Active-Low Preset and Clear
+$ENDCMP
+#
+$CMP STATE
+D FSM - State
+$ENDCMP
+#
+$CMP STATEB
+D FSM - Big State
+$ENDCMP
+#
+$CMP STATETRCURBACKSHORT
+D FSM - Current State Back to Previous, Short
+$ENDCMP
+#
+$CMP STATETRLONG
+D FSM - State Transition (Long)
+$ENDCMP
+#
+$CMP STATETRSHORT
+D FSM - State Transition (Short)
+$ENDCMP
+#
+$CMP STATE_INIT
+D FSM - Initial State Condition
+$ENDCMP
+#
+$CMP STATE_SELF
+D FSM - State Back onto Self
+$ENDCMP
+#
+$CMP SUB
+D Subtractor
+$ENDCMP
+#
+$CMP SUMMER
+D Adder
+$ENDCMP
+#
+$CMP TDARROW
+D Timing Diagram - Arrow
+$ENDCMP
+#
+$CMP TDARROW45
+D Timing Diagram - 45 Degree Arrow
+$ENDCMP
+#
+$CMP TDARROWM
+D Timing Diagram - Arrow with Mark
+$ENDCMP
+#
+$CMP TDBUS1
+D Timing Diagram - Bus (Clock 1)
+$ENDCMP
+#
+$CMP TDBUS1C
+D Timing Diagram - Bus Constant
+$ENDCMP
+#
+$CMP TDBUS1CC
+D Timing Diagram - Bus Constant Constant
+$ENDCMP
+#
+$CMP TDBUS1CX
+D Timing Diagram - Bus Constant, X
+$ENDCMP
+#
+$CMP TDBUS1L
+D Timing Diagram - Bus (Clock 1) into Constant
+$ENDCMP
+#
+$CMP TDCLK0
+D Timing Diagram - Clock 0
+$ENDCMP
+#
+$CMP TDCLK1
+D Timing Diagram - Clock 1
+$ENDCMP
+#
+$CMP TDCLK1GRID1
+D Timing Diagram - Clock 1 Grid, Solid
+$ENDCMP
+#
+$CMP TDCLK1GRID1D
+D Timing Diagram - Clock 1 Grid, Dashed, Long
+$ENDCMP
+#
+$CMP TDCLK1GRID2D
+D Timing Diagram - Clock 1 Grid, Dashed, Short
+$ENDCMP
+#
+$CMP TDCLK2GRID0D
+D Timing Diagram - Clock 0 Grid, Dashed
+$ENDCMP
+#
+$CMP TDCLK2GRID2D
+D Timing Diagram - Clock 2 Grid, Dashed (Wide)
+$ENDCMP
+#
+$CMP TDEDGEMARK
+D Timing Diagram - Edge Mark
+$ENDCMP
+#
+$CMP TDEDGEMARKC
+D Timing Diagram - Edge Mark with Circle
+$ENDCMP
+#
+$CMP TDEDGEMARKR
+D Timing Diagram - Edge Mark, Bends Right
+$ENDCMP
+#
+$CMP TDH0
+D Timing Diagram - Clock 0 High
+$ENDCMP
+#
+$CMP TDH1
+D Timing Diagram - Clock 1 High
+$ENDCMP
+#
+$CMP TDLH1
+D Timing Diagram - Clock 1 Low to High
+$ENDCMP
+#
+$CMP TDNAMES1
+D Timing Diagram - Signal Names 1
+$ENDCMP
+#
+$CMP TDNAMES4
+D Timing Diagram - Signal Names 4
+$ENDCMP
+#
+$CMP TDNAMES8
+D Timing Diagram - Signal Names 8
+$ENDCMP
+#
+$CMP TDNEXT0
+D Timing Diagram - Causation Arrow 0
+$ENDCMP
+#
+$CMP TDNEXT1
+D Timing Diagram - Causation Arrow 1
+$ENDCMP
+#
+$CMP TDNEXT2
+D Timing Diagram - Causation Arrow 2
+$ENDCMP
+#
+$CMP TDNEXTCURVE
+D Timing Diagram - Causation Curve
+$ENDCMP
+#
+$CMP TDNEXTCURVEARROW
+D Timing Diagram - Causation Arrow Curve
+$ENDCMP
+#
+$CMP TDRE
+D Timing Diagram - Rising Edge
+$ENDCMP
+#
+$CMP TDREARROW
+D Timing Diagram - Rising Edge With Arrow
+$ENDCMP
+#
+$CMP TFF
+D Toggle Flip-Flop
+$ENDCMP
+#
+$CMP TFFR
+D Toggle Flip-Flop with Reset
+$ENDCMP
+#
+$CMP TRI
+D Tristate Buffer
+$ENDCMP
+#
+$CMP TRI_INV
+D Tristate Buffer with Inverter
+$ENDCMP
+#
+$CMP XOR2
+D 2-Input XOR Gate
+$ENDCMP
+#
+#End Doc Library
