@@ -12,3 +12,4 @@ Useful for creating documentation and as an aid for FPGA/ASIC design, Control Sy
 # Usage 
 
 # Example output
+![example_output](https://github.com/cplusruss/KiCad-DigitalGenerics/blob/main/dg.svg?raw=true)
