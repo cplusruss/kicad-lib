@@ -1,4 +1,4 @@
-# KiCad-DigitalGenerics
+# KiCad-Lib
 Publication Quality Symbols - FSM, Timing Diagrams, Comb/Synchronous Logic gates, Control Systems blocks for KiCad.
 
 When LibreDraw, Visio, WaveDrom, timing fonts, state machine editors, and everything else just doesn't cut it.  
